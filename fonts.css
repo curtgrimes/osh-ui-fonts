@@ -1,48 +1,48 @@
 @font-face {
     font-family: 'Lota Grotesque Alt 1';
-    src: url('/fonts/lota-grotesque-alt-1-thin.otf') format('opentype');
+    src: url('./fonts/lota-grotesque-alt-1-thin.otf') format('opentype');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Lota Grotesque Alt 1';
-    src: url('/fonts/lota-grotesque-alt-1-thin-italic.otf') format('opentype');
+    src: url('./fonts/lota-grotesque-alt-1-thin-italic.otf') format('opentype');
     font-weight: 100;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Lota Grotesque Alt 1';
-    src: url('/fonts/lota-grotesque-alt-1-extralight.otf') format('opentype');
+    src: url('./fonts/lota-grotesque-alt-1-extralight.otf') format('opentype');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Lota Grotesque Alt 1';
-    src: url('/fonts/lota-grotesque-alt-1-extralight-italic.otf') format('opentype');
+    src: url('./fonts/lota-grotesque-alt-1-extralight-italic.otf') format('opentype');
     font-weight: 200;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Lota Grotesque Alt 1';
-    src: url('/fonts/lota-grotesque-alt-1-light.otf') format('opentype');
+    src: url('./fonts/lota-grotesque-alt-1-light.otf') format('opentype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Lota Grotesque Alt 1';
-    src: url('/fonts/lota-grotesque-alt-1-light-italic.otf') format('opentype');
+    src: url('./fonts/lota-grotesque-alt-1-light-italic.otf') format('opentype');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Lota Grotesque Alt 1';
-    src: url('/fonts/lota-grotesque-alt-1-regular.otf') format('opentype');
+    src: url('./fonts/lota-grotesque-alt-1-regular.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
 }
