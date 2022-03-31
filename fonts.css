@@ -4,6 +4,7 @@
         format('opentype');
     font-weight: 100;
     font-style: normal;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -12,6 +13,7 @@
         format('opentype');
     font-weight: 100;
     font-style: italic;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -20,6 +22,7 @@
         format('opentype');
     font-weight: 200;
     font-style: normal;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -28,6 +31,7 @@
         format('opentype');
     font-weight: 200;
     font-style: italic;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -36,6 +40,7 @@
         format('opentype');
     font-weight: 300;
     font-style: normal;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -44,6 +49,7 @@
         format('opentype');
     font-weight: 300;
     font-style: italic;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -52,6 +58,7 @@
         format('opentype');
     font-weight: 400;
     font-style: normal;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -60,6 +67,7 @@
         format('opentype');
     font-weight: 400;
     font-style: italic;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -68,6 +76,7 @@
         format('opentype');
     font-weight: 600;
     font-style: normal;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -76,6 +85,7 @@
         format('opentype');
     font-weight: 600;
     font-style: italic;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -84,6 +94,7 @@
         format('opentype');
     font-weight: 700;
     font-style: normal;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -92,6 +103,7 @@
         format('opentype');
     font-weight: 700;
     font-style: italic;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -100,6 +112,7 @@
         format('opentype');
     font-weight: 800;
     font-style: normal;
+    descent-override: 27%;
 }
 
 @font-face {
@@ -108,4 +121,5 @@
         format('opentype');
     font-weight: 800;
     font-style: italic;
+    descent-override: 27%;
 }
